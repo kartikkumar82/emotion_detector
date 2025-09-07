@@ -27,6 +27,10 @@ It is built using **Python** and Machine Learning / Deep Learning techniques.
 
 streamlit run app.py
 
+## Deployement 
+
+Link - https://emotiondetector-hbjwdygzt2jhlwahyakk9j.streamlit.app/
+
 ## Future Enhancements
 
 Add support for speech and image-based emotion detection.
