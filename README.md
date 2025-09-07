@@ -36,5 +36,5 @@ Deploy as a mobile/web application.
 Improve accuracy with larger and more diverse datasets.
 
 ## Author
-Kartik Kumar
+**Kartik Kumar**
 Email - kartikkumar1800089@gmail.com
